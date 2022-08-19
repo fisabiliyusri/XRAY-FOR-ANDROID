@@ -1,5 +1,5 @@
 # XRAY-FOR-ANDROID
-XRAY FOR ANDROID
+XRAY FOR ANDROID (Mod v2rayNG)
 
 - Nama Aplikasi: XrayNG
 - Versi: 1.1.1

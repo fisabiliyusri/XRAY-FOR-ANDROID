@@ -1,6 +1,5 @@
 # XRAY-FOR-ANDROID
 XRAY FOR ANDROID
-VPN For Android
 
 - Nama Aplikasi: XrayNG
 - Versi: 1.1.1

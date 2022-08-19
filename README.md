@@ -14,6 +14,6 @@ https://github.com/fisabiliyusri/XRAY-FOR-ANDROID/raw/main/XrayNG_v1.1.1_arm64-v
 - ***XrayNG_v1.1.1_armeabi-v7a.apk***
 https://github.com/fisabiliyusri/XRAY-FOR-ANDROID/raw/main/XrayNG_v1.1.1_armeabi-v7a.apk
 
-# Sumber Aplikasi
+# Sumber Aplikasi Asli
 https://github.com/2dust/v2rayNG
 
